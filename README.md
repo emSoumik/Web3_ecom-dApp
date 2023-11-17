@@ -109,7 +109,7 @@ Please install or have installed the following:
 
 After going through all the installation and setup steps, you'll need to download all the dependencies by running: 
   ```sh
-   cd Ecommarce--Web3--Dapp
+   cd Web3_ecom-dApp
    npm install
    ```
    This download all the needed dependencies. Then run following : 
